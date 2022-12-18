@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d8c0f45-5865-4b18-92e3-d099986f607d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p01_Arrays/IntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p01_Arrays/ExArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p01_Arrays/ExIntArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p01_Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p01_Arrays/ExGenericArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructures/Examples/p01_Arrays/ExArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p01_Arrays/ExArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Application.ExArrays">

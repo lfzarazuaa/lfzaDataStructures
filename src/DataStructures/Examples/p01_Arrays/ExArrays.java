@@ -5,6 +5,15 @@ public class ExArrays {
     public static void main(String[] args) {
         System.out.println("Exercises for Arrays");
         testIntArray();
+        testGenericArray();
+    }
+
+    private static void testGenericArray() {
+        ExGenericArray.testInsert();
+        ExGenericArray.testRemoveAt();
+        ExGenericArray.testIndexOf();
+        ExGenericArray.testReverse();
+        ExGenericArray.testInsertAt();
     }
 
     private static void testIntArray(){
