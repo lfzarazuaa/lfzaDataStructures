@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d8c0f45-5865-4b18-92e3-d099986f607d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p02_LinkedList/IntLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExIntLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p02_LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExGenericLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lfzaDataStructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lfzaDataStructures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
