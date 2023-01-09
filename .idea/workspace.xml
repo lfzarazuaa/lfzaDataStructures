@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d8c0f45-5865-4b18-92e3-d099986f607d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p02_LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExGenericLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p03_Stack/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p03_Stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p03_Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Definitions/Linear/p03_Stack/TwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExIntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExJavaStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p03_Stacks/ExTwoStacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/Examples/p02_LinkedList/ExLinkedList.java" afterDir="false" />
     </list>
@@ -40,18 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ExLinkedList">
+}</component>
+  <component name="RunManager" selected="Application.ExStack">
     <configuration name="ExArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructures.Examples.p01_Arrays.ExArrays" />
       <module name="lfzaDataStructures" />
@@ -78,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.Examples.p03_Stacks.ExStack" />
+      <module name="lfzaDataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.Examples.p03_Stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="lfzaDataStructures" />
@@ -89,10 +110,12 @@
     <list>
       <item itemvalue="Application.ExArrays" />
       <item itemvalue="Application.ExLinkedList" />
+      <item itemvalue="Application.ExStack" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExStack" />
         <item itemvalue="Application.ExLinkedList" />
         <item itemvalue="Application.ExArrays" />
         <item itemvalue="Application.Main" />
