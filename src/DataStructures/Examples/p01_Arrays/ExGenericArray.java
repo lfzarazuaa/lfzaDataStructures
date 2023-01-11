@@ -1,7 +1,6 @@
 package DataStructures.Examples.p01_Arrays;
 
 import DataStructures.Definitions.Linear.p01_Arrays.Array;
-import DataStructures.Definitions.Linear.p01_Arrays.IntArray;
 
 public class ExGenericArray {
     public static void testInsert() {
